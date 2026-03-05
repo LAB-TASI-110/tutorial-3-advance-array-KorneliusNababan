@@ -2,7 +2,7 @@
 
 int main() {
     int n, i, nilai, jumlah = 0;
-    int data[100]; // asumsi maksimal 100 nilai
+    int data[100]; 
     scanf("%d", &n);
 
     for (i = 0; i < n; i++) {

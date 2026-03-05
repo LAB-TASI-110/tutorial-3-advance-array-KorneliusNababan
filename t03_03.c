@@ -23,7 +23,7 @@ int main() {
     }
 
     int range = max - min;
-    
+
     printf("%d\n", jumlah);
     printf("%.2f\n", rata);
     printf("%d\n", count);
