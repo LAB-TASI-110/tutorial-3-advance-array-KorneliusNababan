@@ -18,7 +18,7 @@ int main() {
             count++;
         }
     }
-
+    
     printf("%d\n", jumlah);
     printf("%.2f\n", rata);
     printf("%d\n", count);

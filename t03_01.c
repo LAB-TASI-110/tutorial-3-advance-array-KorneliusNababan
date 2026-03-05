@@ -10,7 +10,7 @@ int main() {
     }
 
     double rata = (double)jumlah / n;
-
+    
     printf("%d\n", jumlah);
     printf("%.2f\n", rata);
 
